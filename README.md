@@ -20,6 +20,10 @@
 
 - [Introduction](#Introduction)
 - [Datasets](#2Datasets)
-  - [目录](#目录)
+  - [Normal](#Normal)
+  - [Depression](#Depression)
+  - [Autism](#Autism)
+  - [Schizophrenia](#Schizophrenia)
 - [Toolkits](#2Toolkits)
-  - [目录](#目录)
+  - [Wnidows](#Wnidows)
+  - [Linux](#Linux)
