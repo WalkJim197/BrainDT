@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WalkJim197/BrainDT/blob/main/assets/pics/wechat.jpg)"><img src="https://img.shields.io/badge/ 研途用脑-公众号-brightgreen.svg" alt="WeChat"></a>
+  <a href="https://github.com/WalkJim197/BrainDT/blob/main/assets/pics/wechat.jpg"><img src="https://img.shields.io/badge/ 研途用脑-公众号-brightgreen.svg" alt="WeChat"></a>
 </p>
