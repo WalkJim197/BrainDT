@@ -2,7 +2,7 @@
 1. 本仓库创立的初衷是整合**最新的现有**脑科学数据库和工具包，以满足**脑科学领域**的科研人员所需
 
 
-![图片描述](https://github.com/WalkJim197/BrainDT/blob/main/assets/OIG4.jpg?raw=true)
+![](https://github.com/WalkJim197/BrainDT/blob/main/assets/OIG3.png?raw=true)
 
 
 
