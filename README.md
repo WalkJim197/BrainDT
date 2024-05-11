@@ -19,8 +19,8 @@
 ## Catalogue
 
 - [Introduction](#Introduction)
-- [Datasets](#2Datasets)
-- [Toolkits](#2Toolkits)
+- [Datasets](#Datasets)
+- [Toolkits](#Toolkits)
 
 ---
 ### Datasets
