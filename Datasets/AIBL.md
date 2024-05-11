@@ -1,0 +1,5 @@
+**Brief Description:** The AIBL study is a large-scale project aimed at understanding Alzheimer’s disease. It gathers data on biomarkers, neuroimaging, cognition, mood, health, and more. The AIBL data set is available through the same technical infrastructure as the US-based Alzheimer’s Disease Neuroimaging Initiative (ADNI), and is referred to as AIBL (Australian ADNI).
+
+**Modality:** The AIBL dataset includes MR and PET imaging data. The MR and PET images were acquired with ADNI protocols. The image database was enriched with 250 MR/Flutemetamol, 200 MR/Florbetapir and 50 MR/PIB at 54 months.
+
+**Data Availability:** The AIBL data are available only to authorized users. The process to obtain access is integrated with procedures used to access ADNI data and makes use of LONI (Laboratory of Neuroimaging, USC) infrastructure. The baseline, 18 and 36-month data are now released2. To gain access to AIBL data, one needs to request access to the AIBL project via an online form. You will need to agree with the AIBL project’s terms of use and then describe your research and collaborators2.
