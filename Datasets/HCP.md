@@ -1,0 +1,5 @@
+**Description:** The HCP aims to map the healthy human connectome by collecting and freely distributing neuroimaging and behavioral data. The data includes diffusion and anatomical neuroimaging data, which are openly available to the scientific community for examination and exploration. These include brain image and results volumes obtained from the advanced Siemens 3T Connectom imaging system based at MGH, as well as data obtained using conventional imaging systems.<br>
+
+**Modality:** The HCP explores brain connectivity using two powerful and complementary MR imaging modalities: diffusion imaging and resting-state fMRI. Additionally, the HCP has collected ultrahigh-field (7 Tesla) fMRI retinotopic mapping data in 181 healthy young adults.<br>
+
+**Data Availability:** The data from the HCP are openly available to the scientific community. Investigators can apply for access to these data from the HCP. Once accepted, they will be notified by email about how to access their account, where they may log in and download data to their machine. The HCP data are disseminated by the Laboratory of Neuro Imaging at the University of Southern California.
