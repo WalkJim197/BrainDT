@@ -27,7 +27,11 @@
 
 Name | Brief descriptions | Modality | Availability |
 ---- | ----- | -----  | ----- 
-[Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org)) | OASIS is an initiative that provides open access to neuroimaging datasets related to brain health, focusing on ****healthy aging and Alzheimer’s disease**** research | rs-fMRI | Free
+[Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org)) | OASIS is an initiative that provides open access to neuroimaging datasets related to brain health, focusing on ****healthy aging and Alzheimer’s disease**** research.OASIS comprises several datasets, including OASIS-1, OASIS-2, OASIS-3, and OASIS-4. These datasets have been utilized for hypothesis-driven data analyses, development of neuroanatomical atlases, and development of segmentation algorithms | MRI | Free
+[The Autism Brain Imaging Data Exchange (ABIDE I/II)](https://fcon_1000.projects.nitrc.org/indi/abide/)) | ABIDE is a collection of functional and structural brain imaging data aimed at accelerating our understanding of the neural bases of ****autism****. It includes data from individuals with and without Autism Spectrum Disorder (ASD). The initiative has aggregated data collected from laboratories around the world and includes two large-scale collections: ABIDE I and ABIDE II. Each collection was created through the aggregation of datasets independently collected across more than 24 international brain imaging laboratories | MRI | Free
+[The Adolescent Brain Cognitive Development Study (ABCD)](https://abcdstudy.org)) | The ABCD Study is a prospective longitudinal study that follows nearly 12,000 youth across the United States from the ages of 9-10 through early adulthood13. It is the largest and most comprehensive longitudinal study on adolescent brain development4. The study includes a diverse sample of youth enrolled at 21 research sites across the country | sMRI,task-fMRI,rs-fMRI,dMRI | Apply
+
+
 
 ---
 ### Toolkits
