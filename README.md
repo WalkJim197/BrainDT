@@ -13,6 +13,7 @@
 ## Introduction
 1. :triangular_flag_on_post: The original intention of creating this repository is to integrate the ****latest existing**** neuroscience databases and toolkits, in order to meet the needs of researchers in the field of ****neuroscience****
 2. :point_right: Due to my limited energy and time, there may be some data or toolkits that I have overlooked, so I appreciate your understanding. If you discover any information that has not been included, please contact me through the official account background, and thank you very much!
+3. :warning: This project will be continuously updated and maintained irregularly. If you find any errors or have suggestions, please upload them in the [Issue](https://github.com/WalkJim197/BrainDT/issues/new)
 
 ---
 
