@@ -64,7 +64,7 @@ Name | Brief descriptions | Platform |
 ---- | ----- | ----- 
 [Stable Diffusion Cheat-Sheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) | Stable Diffusion 开源速查表，里面拥有超过 700 种经过测试的艺术风格，可快速搜索查找各类艺术家，并支持一键复制 Prompt。 | Windows
 
-
+---
 ### Atlas
 
 Name | Brief descriptions | Regions |
