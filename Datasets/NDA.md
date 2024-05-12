@@ -1,0 +1,5 @@
+**Brief Description:** The NDA makes available human subjects data collected from hundreds of research projects across many scientific domains1. It provides infrastructure for sharing research data, tools, methods, and analyses enabling collaborative science and discovery. The NDA was established initially to support autism research, but has grown into an informatics platform that facilitates data sharing across all of mental health and other research communities.<br>
+
+**Modality:** the NDA hosts a variety of datasets that may include different modalities like rs-fMRI, task-fMRI, T1, DTI, DWI, EEG, etc., depending on the specific study.<br>
+
+**Data Availability:** De-identified human subjects data, harmonized to a common standard, are available to qualified researchers. Summary data are available to all. It’s important to note that in order to take full advantage of such resources and maximize their research value, it is important that data be made available
