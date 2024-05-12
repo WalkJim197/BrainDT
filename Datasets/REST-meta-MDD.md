@@ -1,0 +1,5 @@
+**Brief Description:** This project was initiated to address the challenges in characterizing the pathophysiology of Major Depressive Disorder (MDD) with resting-state functional magnetic resonance imaging (R-fMRI). The consortium includes 17 participating hospitals in China and shares 25 study cohorts, including R-fMRI data from 1300 MDD patients and 1128 normal controls. The aim is to develop more effective diagnostic approaches and treatments by characterizing the neurobiological basis of MDD.<br>
+
+**Modality:** The modality used in this dataset is Resting-State Functional Magnetic Resonance Imaging (R-fMRI). This approach is increasingly used to reveal neurobiological substrates of clinical conditions.<br>
+
+**Data Availability:** The R-fMRI indices of the 1300 MDD patients and 1128 normal controls are shared through the R-fMRI Maps Project. These data derivatives allow for replication, secondary analyses, and discovery efforts while protecting participant privacy and confidentiality. The dataset is publicly available to researchers worldwide.
