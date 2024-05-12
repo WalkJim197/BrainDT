@@ -1,0 +1,5 @@
+The REST-meta-PD dataset is a large-scale study that combines resting-state functional magnetic resonance imaging (RS-fMRI) data from 15 independent studies of Parkinson’s Disease (PD) patients. Here are the details:<br>
+
+**Brief Description:** The REST-meta-PD study was designed to address the issue of low statistical power from small sample size studies and high analytic flexibility in neuroimaging research. It performed the voxel-wise analysis known as ‘amplitude of low frequency fluctuations’ (ALFF).<br>
+**Modality:** The primary modality of this dataset is resting-state functional magnetic resonance imaging (RS-fMRI).<br>
+**Data Availability:** The REST-meta-PD study is part of a larger effort to increase reproducibility and generalizability in neuroimaging studies1. This suggests that the data might be shared among the research community, but it would be best to check the specific data sharing policies of the REST-meta-PD study or contact the study administrators for more information.
