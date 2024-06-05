@@ -4,5 +4,5 @@ Computational Anatomy Toolbox (CAT12) is a software package designed to facilita
 **Platform:**
 CAT12 is primarily designed to run on MATLAB, a high-level programming language and interactive environment for numerical computation, visualization, and programming.
 
-**System Compatibility:**
+**System Requirements:**
 It is compatible with multiple operating systems, including Windows, Linux, and macOS. However, since it is a MATLAB-based toolbox, the specific system compatibility would depend on the version of MATLAB being used, as MATLAB itself supports these operating systems.
